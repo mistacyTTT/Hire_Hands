@@ -2,6 +2,7 @@ Project Title: Hire Hands
 Hire Hands: A Platform for Hiring Trusted Home Service Workers
 
 Presented by:
+
 -Ishya Stacy Mwanafunzi
 
 -Umukunzi Kenzo
